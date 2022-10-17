@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38237" started-at="2022-10-14T12:04:48 IST" finished-at="2022-10-14T12:05:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38237" started-at="2022-10-14T12:04:48 IST" finished-at="2022-10-14T12:05:26 IST">
+      <class name="com.crm.Lead.CreateLeadUsingDataProvider">
+        <test-method status="PASS" signature="LeadDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.crm.Lead.CreateLeadUsingDataProvider@687080dc]" name="LeadDetails" duration-ms="13159" started-at="2022-10-14T12:04:48 IST" data-provider="dataProvider_test" finished-at="2022-10-14T12:05:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hemanth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[S]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Asus Laptops]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LeadDetails -->
+        <test-method status="PASS" signature="LeadDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.crm.Lead.CreateLeadUsingDataProvider@687080dc]" name="LeadDetails" duration-ms="11611" started-at="2022-10-14T12:05:01 IST" data-provider="dataProvider_test" finished-at="2022-10-14T12:05:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Varun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HP Laptops]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LeadDetails -->
+        <test-method status="PASS" signature="LeadDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.crm.Lead.CreateLeadUsingDataProvider@687080dc]" name="LeadDetails" duration-ms="13415" started-at="2022-10-14T12:05:13 IST" data-provider="dataProvider_test" finished-at="2022-10-14T12:05:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Niranjan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MSI Laptops]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LeadDetails -->
+      </class> <!-- com.crm.Lead.CreateLeadUsingDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
